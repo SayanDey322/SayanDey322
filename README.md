@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Sayon Dey
-**Aspiring Fullstack Developer || ECE Engineer || DSA in Java**
+**Fullstack Developer || Electronics andCommunication Engineering|| DSA in Java**
 
 Email Me 👉 ✉️ **deysayon6@gmail.com** For Collaboration/Project or Anything Else.
 
