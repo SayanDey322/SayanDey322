@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Sayon Dey
-**Fullstack Developer || Electronics and Communication Engineering|| DSA in Java**
+**Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms**
 
 <!--Typing Animation Header Here -->
 <p align="center">
