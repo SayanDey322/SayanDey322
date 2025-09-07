@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **deysayon6@gmail.com** For Collaboration/Project or Anythi
 
 
 # ✨️ About Me:
-🌱 Aspiring Fullstack Developer<br>🔭 Currently learning Backend Development and Data Structures and Algorithms<br>🏅 150+ LeetCode Problems<br>💭 Ask me about React.js, JavaScript, Python and Java<br>🎗 Looking to collaborate in exciting fullstack projects and open source projects<br>⚡ Fun Fact - I started coding not just to build apps, but to bring my wildest ideas to life — from space shooter games to chat apps with real-time emojis. Creativity is my debugging tool!
+🌱 Aspiring Fullstack Developer<br>🔭 Currently learning Backend Development and Data Structures and Algorithms<br>🏅 160+ LeetCode Problems<br>💭 Ask me about React.js, JavaScript, Python and Java<br>🎗 Looking to collaborate in exciting fullstack projects and open source projects<br>⚡ Fun Fact - I started coding not just to build apps, but to bring my wildest ideas to life — from space shooter games to chat apps with real-time emojis. Creativity is my debugging tool!
 <br>
 
 
