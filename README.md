@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Sayon Dey
+# 💫 Hi, I am Sayon Dey
 **Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**
 
 <p align="center">
