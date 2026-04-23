@@ -1,4 +1,4 @@
-# 💫 Hi I am Sayon          
+# 💫 Hi I am Sayon           
  
 **Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**
 
