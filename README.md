@@ -14,8 +14,10 @@ Email Me 👉 ✉️ **deysayon6@gmail.com** For Collaboration/Project or Anythi
 <br>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SayanDey322&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaayushman&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annoyd216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayon-dey-3a0876324) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deysayan95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deysayon6@gmail.com) 
