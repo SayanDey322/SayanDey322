@@ -1,4 +1,4 @@
-# 💫 Hi I am Sayon Dey                                                                                                     
+#  Hi I am Sayon Dey                                                                                                     
        
 **Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**      
       
@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+I+am+Sayon+Dey;Full-Stack+Web+Developer;Open-Source+Contributor;MERN+Stack+and+DSA+Enthusiast;Let's+Build+Cool+Stuff+Together" alt="Typing Header" />
 </p>
 
-Email Me 👉 ✉️ **deysayon6@gmail.com** For Collaboration/Project or Anything Else. 
+Email Me  **deysayon6@gmail.com** For Collaboration/Project or Anything Else. 
 
 
-# ✨️ About Me:
-🌱 Fullstack Developer<br>🔭 Currently learning Back End Development and Data Structures and Algorithms in Java<br>🏅 280+ LeetCode Problems Solved<br>💭 Ask me about Node.js, React.js, JavaScript, Python and Java<br>🎗 Looking to collaborate in exciting fullstack projects and open source projects<br>⚡ Fun Fact - I started coding not just to build apps, but to bring my wildest ideas to life — from space shooter games to chat apps with real-time emojis. Creativity is actually my debugging tool
+#  About Me:
+ Fullstack Developer<br> Currently learning Back End Development and Data Structures and Algorithms in Java<br> 280+ LeetCode Problems Solved<br> Ask me about Node.js, React.js, JavaScript, Python and Java<br>🎗 Looking to collaborate in exciting fullstack projects and open source projects<br> Fun Fact - I started coding not just to build apps, but to bring my wildest ideas to life — from space shooter games to chat apps with real-time emojis. Creativity is actually my debugging tool
 <br>
 
 
