@@ -6,7 +6,6 @@
 
 [![Follow](https://img.shields.io/github/followers/SayanDey322?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/SayanDey322)
 [![Stars](https://img.shields.io/github/stars/SayanDey322?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/SayanDey322?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=anikchand461&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/SayanDey322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sayondey.xyz/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SayanDey322)
 
@@ -40,8 +39,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/deysayan95" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="60" />
+  <a href="https://x.com/deysayan95" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,6 +56,16 @@
 
   <a href="https://auth.geeksforgeeks.org/user/deysay2xz" target="_blank">
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/sayondey_012" target="_blank">
+    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://devfolio.co/@sayondey" target="_blank">
+    <img src="https://raw.githubusercontent.com/devfolioco/brand-assets/f523906e2faeabd9e9f12d4ba62f53aa5b45b385/Logo/Logo.svg" alt="Devfolio" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
