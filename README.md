@@ -1,6 +1,6 @@
-#  Hi I am Sayon Dey                                                                                                     
+#  Hi Sayon Here                                                                                                     
        
-**Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**    
+**MERN Stack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**    
 
 <div align="center">
 
@@ -24,11 +24,6 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://github.com/SayanDey322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-       
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
@@ -36,6 +31,11 @@
 
   <a href="https://instagram.com/sayond216" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/SayanDey322" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,6 +66,11 @@
 
   <a href="https://devfolio.co/@sayondey" target="_blank">
     <img src="https://raw.githubusercontent.com/devfolioco/brand-assets/f523906e2faeabd9e9f12d4ba62f53aa5b45b385/Logo/Logo.svg" alt="Devfolio" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://gitlab.com/deysayon6" target="_blank">
+    <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" alt="GitLab" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
