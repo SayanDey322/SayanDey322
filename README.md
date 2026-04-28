@@ -1,12 +1,20 @@
 #  Hi I am Sayon Dey                                                                                                     
        
-**Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**      
+**Aspiring Fullstack Developer || Electronics and Communication Engineering|| Data Structures and Algorithms Enthusiast**    
+
+<div align="center">
+
+[![Follow](https://img.shields.io/github/followers/SayanDey322?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/SayanDey322)
+[![Stars](https://img.shields.io/github/stars/SayanDey322?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/SayanDey322?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=anikchand461&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/SayanDey322)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sayondey.xyz/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SayanDey322)
+
+</div>
       
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+I+am+Sayon+Dey;Full-Stack+Web+Developer;Open-Source+Contributor;MERN+Stack+and+DSA+Enthusiast;Let's+Build+Cool+Stuff+Together" alt="Typing Header" />
 </p>
-
-Email Me  **deysayon6@gmail.com** For Collaboration/Project or Anything Else. 
 
 
 #  About Me:
@@ -19,8 +27,48 @@ Email Me  **deysayon6@gmail.com** For Collaboration/Project or Anything Else.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annoyd216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayon-dey-3a0876324) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deysayan95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deysayon6@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/SayanDey322" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/sayond216" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://twitter.com/deysayan95" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://hackerrank.com/deysayon6" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/sayondey2005" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/deysay2xz" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.gg/gX6cywPnX" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="60" />
+  </a>
+</p>
 
 
 ## 🎮 Fun Zone
@@ -31,13 +79,58 @@ Email Me  **deysayon6@gmail.com** For Collaboration/Project or Anything Else.
 </picture>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h3 align="left">Tech Stack:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />     
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=dart" height="55" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="55" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
+  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=vue" height="55" alt="Vue.js" />
+</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SayanDey322&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SayanDey322&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=F0C040&icon_color=F0C040&text_color=e2d9c0" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&theme=transparent&hide_border=true&title_color=F0C040&text_color=e2d9c0" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=F0C040&ring=F0C040&fire=FFA500&currStreakLabel=F0C040&sideLabels=e2d9c0&dates=b8b070&currStreakNum=F0C040&sideNums=e2d9c0" />
+</div>
+
 
 
 
