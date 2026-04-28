@@ -85,6 +85,7 @@
 
 ## Tech Stack
 <p align="center">
+       
   <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
