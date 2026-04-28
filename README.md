@@ -17,11 +17,6 @@
 </p>
 
 
-#  About Me:
- Fullstack Developer<br> Currently learning Back End Development and Data Structures and Algorithms in Java<br> 280+ LeetCode Problems Solved<br> Ask me about Node.js, React.js, JavaScript, Python and Java<br> Looking to collaborate in exciting fullstack projects and open source projects<br> Fun Fact - I started coding not just to build apps, but to bring my wildest ideas to life — from space shooter games to chat apps with real-time emojis. Creativity is actually my debugging tool
-<br>
-
-
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=tokyo-night&hide_border=true"/>
@@ -131,7 +126,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=F0C040&ring=F0C040&fire=FFA500&currStreakLabel=F0C040&sideLabels=e2d9c0&dates=b8b070&currStreakNum=F0C040&sideNums=e2d9c0" />
 </div>
-
 
 
 
