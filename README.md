@@ -22,9 +22,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/SayanDey322" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
   </a>
@@ -74,9 +74,9 @@
 </picture>
 
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="center">Tech Stack:</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
@@ -128,11 +128,11 @@
 </div>
 
 
-<br/>
+<div align="center">
 
 _"Turning ideas into clean, scalable code — one commit at a time"_
 
-<br/>
+</div>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
