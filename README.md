@@ -120,15 +120,42 @@
   <img src="https://skillicons.dev/icons?i=vue" height="55" alt="Vue.js" />
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=F0C040&icon_color=F0C040&text_color=e2d9c0" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&theme=transparent&hide_border=true&title_color=F0C040&text_color=e2d9c0" height="180em" />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f7c843&icon_color=f7c843&text_color=e6dcc8&include_all_commits=true&count_private=true&rank_icon=github" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f7c843&text_color=e6dcc8" 
+  />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=F0C040&ring=F0C040&fire=FFA500&currStreakLabel=F0C040&sideLabels=e2d9c0&dates=b8b070&currStreakNum=F0C040&sideNums=e2d9c0" />
+
+  <img 
+    width="78%" 
+    src="https://streak-stats.demolab.com?user=SayanDey322&hide_border=true&background=0d1117&stroke=2f2f2f&ring=f7c843&fire=ff9f1c&currStreakLabel=f7c843&sideLabels=e6dcc8&dates=9f9f9f&currStreakNum=f7c843&sideNums=e6dcc8" 
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayanDey322&theme=github_dark" 
+    width="78%" 
+  />
+
 </div>
 
 
