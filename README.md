@@ -119,20 +119,20 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=F0C040&icon_color=F0C040&text_color=e2d9c0" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&theme=transparent&hide_border=true&title_color=F0C040&text_color=e2d9c0" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=e2d9c0" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=e2d9c0" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=F0C040&ring=F0C040&fire=FFA500&currStreakLabel=F0C040&sideLabels=e2d9c0&dates=b8b070&currStreakNum=F0C040&sideNums=e2d9c0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=FFA500&currStreakLabel=2563EB&sideLabels=e2d9c0&dates=b8b070&currStreakNum=2563EB&sideNums=e2d9c0" />
 </div>
 
 
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+_"Turning ideas into clean, scalable code — one commit at a time"_
 
-<div align="center">
+<br/>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
