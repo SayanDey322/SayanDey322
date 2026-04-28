@@ -22,14 +22,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+## Connect with me
 
 <p align="center">
   <a href="https://github.com/SayanDey322" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
+       
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
@@ -74,8 +74,7 @@
 </picture>
 
 
-<h3 align="center">Tech Stack:</h3>
-
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
@@ -116,7 +115,7 @@
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=e2d9c0" height="180em" />
