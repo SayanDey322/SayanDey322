@@ -24,27 +24,27 @@
 ## Connect with me
   <p align="center">
   <a href="https://leetcode.com/sayondey2005" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="70" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://auth.geeksforgeeks.org/user/deysay2xz" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="70" />
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/sayondey_012" target="_blank">
-    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="70" />
+    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://hackerrank.com/deysayon6" target="_blank">
-    <img src="badges/hackerrank.png" alt="HackerRank" height="70" />
+    <img src="badges/hackerrank.png" alt="HackerRank" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
          
   <a href="https://codeforces.com/profile/SayonCodes?csrf_token=6dce3e2b109a528057ce07f87ebbaf96" target="_blank">
-    <img src="badges/codeforces.png" alt="CodeForces" height="70" />
+    <img src="badges/codeforces.png" alt="CodeForces" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,28 +54,28 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://gitlab.com/deysayon6" target="_blank">
-    <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" alt="GitLab" height="80" />
+    <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" alt="GitLab" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.naukri.com/mnjuser/profile?state=source%3Dcn&source=code_studio&campaign=manage_profile_code_studio&medium=desktop" target="_blank">
-    <img src="badges/code360.png" alt="Code360" height="70" />
+    <img src="badges/code360.png" alt="Code360" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <p align="center">
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="70" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/sayond216" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="70" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/SayanDey322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="70" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,7 +85,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.gg/gX6cywPnX" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="70" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="60" />
   </a>
 </p>
 
