@@ -63,6 +63,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.kaggle.com/sayondey2005" target="_blank">
+    <img src="badges/kaggle.png" alt="Kaggle" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <p align="center">
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
