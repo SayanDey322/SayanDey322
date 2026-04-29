@@ -21,7 +21,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## Connect with me
+## 🤝 Connect with me
   <p align="center">
   <a href="https://leetcode.com/sayondey2005" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="60" />
@@ -99,7 +99,7 @@
 
 
 
-## Tech Stack
+## 💻 Tech Stack
 <p align="center">
        
   <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
