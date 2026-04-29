@@ -80,12 +80,13 @@
 </p>
 
 
-## 🎮 Fun Zone
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/A-Akhil/A-Akhil/output/github-snake.svg" />
-</picture>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ## Tech Stack
