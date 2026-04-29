@@ -100,44 +100,92 @@
 
 
 ## 💻 Tech Stack
+
+### Programming Languages
 <p align="center">
-       
-  <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />     
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=dart" height="55" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=django" height="55" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="55" alt="GraphQL" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=dart" height="55" alt="Dart" />
+</p>
+
+---
+
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
   <img src="https://skillicons.dev/icons?i=redux" height="55" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=vue" height="55" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular" />
+</p>
+
+---
+
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="55" alt="GraphQL" />
+</p>
+
+---
+
+### Mobile App Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" height="55" alt="Dart" />
+</p>
+
+---
+
+### AI / ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="Jupyter" />
+</p>
+
+---
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />
+</p>
+
+---
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="Google Cloud" />
+</p>
+
+---
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="Firebase" />
 </p>
 
 
