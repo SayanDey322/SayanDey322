@@ -131,7 +131,7 @@
 </p>
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=e2d9c0" height="180em" />
@@ -142,8 +142,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=FFA500&currStreakLabel=2563EB&sideLabels=e2d9c0&dates=b8b070&currStreakNum=2563EB&sideNums=e2d9c0" />
 </div>
 
+## 🏅 Achievements
 
 <div align="center">
+
+<img src="/badges/lc-100-2025.gif" width="90px" height="90px" title="LeetCode 100 Days 2025" />
+<img src="/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2025" />
+<img src="/badges/lc-50-2026.gif" width="90px" height="90px" title="LeetCode 50 Days 2026" />
+
+<img src="/badges/pull-shark.png" width="90px" height="90px" title="Pull Shark" />
+<img src="/badges/pair-extraordinaire.png" width="90px" height="90px" title="Pair Extraordinaire" />
+<img src="/badges/yolo.png" width="90px" height="90px" title="YOLO" />
+<img src="/badges/quick-draw.png" width="90px" height="90px" title="Quick Draw" />
+<img src="badges/hacktoberfest-badge.png" width="90px" height="90px" title="HacktoberFest" />
+<img src="badges/explorer-badge.webp" width="90px" height="90px" title="GSSoC Explorer Badge" />
+
+</div>
+
+
+<div align="center">
+
+</br>
+</br>
+</br>
 
 _"Turning ideas into clean, scalable code — one commit at a time"_
 
