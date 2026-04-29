@@ -34,7 +34,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/sayondey_012" target="_blank">
-    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="60" />
+    <img src="badges/codechef.svg" alt="CoderChef" height="70" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
