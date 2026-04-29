@@ -25,57 +25,63 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/sayond216" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/SayanDey322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/deysayan95" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" height="60" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <p align="center">
+  <a href="https://codeforces.com/profile/SayonCodes?csrf_token=6dce3e2b109a528057ce07f87ebbaf96" target="_blank">
+    <img src="badges/codeforces.png" alt="CodeForces" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://hackerrank.com/deysayon6" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="60" />
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/sayondey2005" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="60" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://auth.geeksforgeeks.org/user/deysay2xz" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="60" />
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/sayondey_012" target="_blank">
-    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="60" />
+    <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1775525452076" alt="CoderChef" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://devfolio.co/@sayondey" target="_blank">
-    <img src="https://raw.githubusercontent.com/devfolioco/brand-assets/f523906e2faeabd9e9f12d4ba62f53aa5b45b385/Logo/Logo.svg" alt="Devfolio" height="60" />
+    <img src="https://raw.githubusercontent.com/devfolioco/brand-assets/f523906e2faeabd9e9f12d4ba62f53aa5b45b385/Logo/Logo.svg" alt="Devfolio" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://gitlab.com/deysayon6" target="_blank">
-    <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" alt="GitLab" height="60" />
+    <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" alt="GitLab" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.gg/gX6cywPnX" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="60" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="50" />
   </a>
 </p>
 
@@ -149,13 +155,11 @@
 <img src="/badges/lc-100-2025.gif" width="90px" height="90px" title="LeetCode 100 Days 2025" />
 <img src="/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2025" />
 <img src="/badges/lc-50-2026.gif" width="90px" height="90px" title="LeetCode 50 Days 2026" />
-
 <img src="/badges/pull-shark.png" width="90px" height="90px" title="Pull Shark" />
 <img src="/badges/pair-extraordinaire.png" width="90px" height="90px" title="Pair Extraordinaire" />
 <img src="/badges/yolo.png" width="90px" height="90px" title="YOLO" />
 <img src="/badges/quick-draw.png" width="90px" height="90px" title="Quick Draw" />
 <img src="badges/hacktoberfest-badge.png" width="90px" height="90px" title="HacktoberFest" />
-<img src="badges/explorer-badge.webp" width="90px" height="90px" title="GSSoC Explorer Badge" />
 
 </div>
 
