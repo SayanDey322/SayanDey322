@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Follow](https://img.shields.io/github/followers/SayanDey322?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/SayanDey322)
+[![Followers](https://img.shields.io/github/followers/SayanDey322?style=for-the-badge&color=181717&logo=github&label=Followers&logoColor=white)](https://github.com/SayanDey322?tab=followers)
 [![Stars](https://img.shields.io/github/stars/SayanDey322?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/SayanDey322?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sayondey.xyz/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SayanDey322)
