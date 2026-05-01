@@ -197,12 +197,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayanDey322&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=e2d9c0" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=e2d9c0" height="180em" />
+
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api?username=SayanDey322&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=e2d9c0&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=SayanDey322&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=e2d9c0" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayanDey322&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=FFA500&currStreakLabel=2563EB&sideLabels=e2d9c0&dates=b8b070&currStreakNum=2563EB&sideNums=e2d9c0" />
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=SayanDey322&hide_border=true&background=0d1117&stroke=00E5FF&ring=00E5FF&fire=FFA500&currStreakLabel=00E5FF&sideLabels=e2d9c0&dates=8b8070&currStreakNum=F0C040&sideNums=e2d9c0" />
+
 </div>
 
 ## 🏅 Achievements
