@@ -155,8 +155,6 @@
 
 ### AI / ML & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch" />
   <img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas" />
@@ -190,7 +188,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="Firebase" />
 </p>
 
 
