@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://www.sayondey.xyz/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SayanDey322)
 
-</div>
+</div> 
       
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Code&size=30&weight=700&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I+am+Sayon+Dey;Full-Stack+Web+Developer;Open-Source+Contributor;MERN+Stack+and+DSA+Enthusiast;Let's+Build+Cool+Stuff+Together&color=00E5FF" alt="Typing SVG" />
