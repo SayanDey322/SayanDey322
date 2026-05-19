@@ -1,6 +1,6 @@
 #  Hi Sayon Here                                                                                                         
        
-**MERN Stack Developer || Electronics and Communication Engineering || Data Structures and Algorithms Enthusiast || 300+ DSA Problems on LeetCode**    
+**MERN Stack Developer || Data Structures and Algorithms Enthusiast || 300+ DSA Problems on LeetCode**    
 
 <div align="center">
 
