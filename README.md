@@ -2,7 +2,7 @@
         
 **Full Stack Web Developer || Data Structures and Algorithms Enthusiast || 320+ DSA Problems on LeetCode**    
 
-<div align="center">
+<div align="center"> 
 
 [![Followers](https://img.shields.io/github/followers/SayanDey322?style=for-the-badge&color=181717&logo=github&label=Followers&logoColor=white)](https://github.com/SayanDey322?tab=followers)
 [![Stars](https://img.shields.io/github/stars/SayanDey322?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/SayanDey322?tab=repositories)
