@@ -1,6 +1,6 @@
 #  Hi Sayon Here                                                                                                         
         
-**Full Stack Web Developer || Data Structures and Algorithms Enthusiast || 480+ DSA Problems on LeetCode**    
+**Full Stack Web Developer || Data Structures and Algorithms Enthusiast || 490+ DSA Problems on LeetCode**    
 
 <div align="center"> 
 
