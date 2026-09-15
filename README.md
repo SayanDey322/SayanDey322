@@ -1,4 +1,4 @@
-#  Hi Sayon Here                                                                                                         
+<img width="900" height="1602" alt="365leetcode" src="https://github.com/user-attachments/assets/09eae072-d849-4820-8ddb-f6ee062f4211" />#  Hi Sayon Here                                                                                                         
         
 **Full Stack Web Developer || Data Structures and Algorithms Enthusiast || 650+ DSA Problems on LeetCode || 1200+ Problems on CodeChef**    
 
@@ -210,6 +210,7 @@
 
 <div align="center">
 
+<img src="badges/365_new.gif" width="90px" height="90px" title="LeetCode 365 Days" />
 <img src="/badges/lc-100-2026.gif" width="90px" height="90px" title="LeetCode 100 Days 2026" />
 <img src="/badges/lc-100-2025.gif" width="90px" height="90px" title="LeetCode 100 Days 2025" />
 <img src="/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2025" />
