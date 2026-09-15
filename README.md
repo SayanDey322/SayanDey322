@@ -1,4 +1,4 @@
-<img width="900" height="1602" alt="365leetcode" src="https://github.com/user-attachments/assets/09eae072-d849-4820-8ddb-f6ee062f4211" />#  Hi Sayon Here                                                                                                         
+#  Hi Sayon Here                                                                                                         
         
 **Full Stack Web Developer || Data Structures and Algorithms Enthusiast || 650+ DSA Problems on LeetCode || 1200+ Problems on CodeChef**    
 
