@@ -205,6 +205,7 @@
 
 <div align="center">
 
+<img src="badges/Knight.gif" width="90px" height="90px" title="Knight Badge" />
 <img src="badges/365_new.gif" width="90px" height="90px" title="LeetCode 365 Days" />
 <img src="badges/2026_200.gif" width="90px" height="90px" title="LeetCode 200 Days 2026" />
 <img src="/badges/lc-100-2026.gif" width="90px" height="90px" title="LeetCode 100 Days 2026" />
