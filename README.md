@@ -231,7 +231,7 @@
 _"Turning ideas into clean, scalable code — one commit at a time"_
 
 </div>
-
+ 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
