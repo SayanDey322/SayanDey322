@@ -17,6 +17,13 @@
 
 
 ## 🤝 Connect with me
+    <p align="center">
+  <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  
   <p align="center">
   <a href="https://leetcode.com/sayondey2005" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="60" />
@@ -55,12 +62,6 @@
 
   <a href="https://www.kaggle.com/sayondey2005" target="_blank">
     <img src="badges/kaggle.png" alt="Kaggle" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <p align="center">
-  <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
