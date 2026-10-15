@@ -53,11 +53,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.naukri.com/mnjuser/profile?state=source%3Dcn&source=code_studio&campaign=manage_profile_code_studio&medium=desktop" target="_blank">
-    <img src="badges/code360.png" alt="Code360" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.kaggle.com/sayondey2005" target="_blank">
     <img src="badges/kaggle.png" alt="Kaggle" height="60" />
   </a>
