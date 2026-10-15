@@ -69,16 +69,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/sayond216" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/SayanDey322" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://x.com/deysayan95" target="_blank">
     <img src="badges/x.png" alt="X" height="60" />
   </a>
