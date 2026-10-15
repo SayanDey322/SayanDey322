@@ -69,12 +69,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://discord.gg/gX6cywPnX" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="60" />
-  </a>
-</p>
-
-
 
 <!-- Snake Game Repo View -->
 
