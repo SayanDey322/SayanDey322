@@ -69,11 +69,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/deysayan95" target="_blank">
-    <img src="badges/x.png" alt="X" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://discord.gg/gX6cywPnX" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="60" />
   </a>
