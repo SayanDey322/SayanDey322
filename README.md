@@ -17,7 +17,7 @@
 
 
 ## 🤝 Connect with me
-
+<p align="center">
   <a href="https://linkedin.com/in/Sayon-Dey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
