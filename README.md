@@ -187,7 +187,7 @@
 <img src="/badges/lc-50-2026.gif" width="90px" height="90px" title="LeetCode 50 Days 2026" />
 <img src="badges/lc-50-2024.gif" width="90px" height="90px" title="LeetCode 50 Days 2024" />
 <img src="badges/starstruck-default-b6610abad518.png" width="90px" height="90px" title="Starstruck" />
-<img src="/badges/pull-shark.png" width="90px" height="90px" title="Pull Shark" />
+<img src="badges/pull-shark-bronze-a37accb528d1.png" width="90px" height="90px" title="Pull Shark Bronze" />
 <img src="/badges/pair-extraordinaire.png" width="90px" height="90px" title="Pair Extraordinaire" />
 <img src="/badges/yolo.png" width="90px" height="90px" title="YOLO" />
 <img src="/badges/quick-draw.png" width="90px" height="90px" title="Quick Draw" />
