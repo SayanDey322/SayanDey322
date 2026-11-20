@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=profile-green-animate.svg&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayanDey322&theme=github-dark&hide_border=true"/>
 
 </p>
 
