@@ -71,7 +71,7 @@
 </div>
 
 
-# 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
 
