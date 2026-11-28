@@ -1,6 +1,6 @@
  #  Hi Sayon Here                                                                                                         
         
-**Full Stack Web Developer || Data Structures and Algorithms Enthusiast || Knight (1951) 🛡️ on LeetCode || 920+ DSA Problems on LeetCode || 1350+ Problems on CodeChef**    
+**Full Stack Web Developer || Data Structures and Algorithms Enthusiast || Knight (1951) 🛡️ on LeetCode || 930+ DSA Problems on LeetCode || 1350+ Problems on CodeChef**    
 
 <div align="center"> 
 
